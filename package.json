@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/dangcoi2010/NODEJS.mongoDB.CRUD/issues"
   },
-  "homepage": "https://github.com/dangcoi2010/NODEJS.mongoDB.CRUD#readme"
+  "homepage": "https://github.com/dangcoi2010/NODEJS.mongoDB.CRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.6.9"
+  }
 }
